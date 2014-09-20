@@ -4,7 +4,7 @@
       "Breno G. de Oliveira <garu@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.94, CPAN::Meta::Converter version 2.120351",
+   "generated_by" : "ExtUtils::MakeMaker version 6.94, CPAN::Meta::Converter version 2.142060",
    "license" : [
       "perl_5"
    ],
@@ -57,5 +57,5 @@
          "url" : "http://github.com/garu/cpanthanks"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
